@@ -36,7 +36,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/{{towareesh}}/{{towareesh}}/blob/output/github-contribution-grid-snake.svg)
-![snake](https://user-images.githubusercontent.com/63032856/217645980-bdccee90-00fe-4da9-a544-c6025a75a176.svg)
+![Snake animation](https://user-images.githubusercontent.com/63032856/217645980-bdccee90-00fe-4da9-a544-c6025a75a176.svg)
 ###
 
