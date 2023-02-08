@@ -34,6 +34,9 @@
   <a href="https://stackoverflow.com/users/21030171/towareesh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  <a href="https://leetcode.com/Towareesh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=submissions&logo=leetcode&label=78&color=626c80&logoColor=282c34&labelColor=ffa61d&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
@@ -41,6 +44,5 @@
 <br clear="both">
 
 ![Snake animation](https://user-images.githubusercontent.com/63032856/217645980-bdccee90-00fe-4da9-a544-c6025a75a176.svg)
-[![trophy](https://github-profile-trophy.vercel.app/towareesh=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 
