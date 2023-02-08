@@ -41,6 +41,6 @@
 <br clear="both">
 
 ![Snake animation](https://user-images.githubusercontent.com/63032856/217645980-bdccee90-00fe-4da9-a544-c6025a75a176.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/towareesh=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 
