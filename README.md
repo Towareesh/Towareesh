@@ -1,4 +1,4 @@
-<h2 align="left">Im Self learning beginning coder. I am Studies backend and web technologies. Only without paid courses.</h2>
+<h2 align="left">Im self learning beginning coder. Studies backend and web technologies. Only without paid courses.</h2>
 
 ###
 
