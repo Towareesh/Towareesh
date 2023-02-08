@@ -1,10 +1,41 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="100"/>
+<h2 align="left">Im Self learning beginning coder. I am Studies backend and web technologies. Only without paid courses.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=towa" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=towa" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/9beb5efcb9fa74c4bbd905bd030454c031ab3d7dab8a541c4c204556be3d97bc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37714538546378764c78444750426d4d2f67697068792e676966"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="70" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="70" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" width="70" alt="sqlalchemy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="70" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="70" alt="github logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://t.me/+6zgq5EdfNdxlNTIy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=SuillusCodeEXP&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/21030171/towareesh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/towa/towa/blob/output/snake.svg" alt="Snake animation" />
+
+###
