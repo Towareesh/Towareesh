@@ -29,7 +29,7 @@
 
 <div align="left">
   <a href="https://t.me/+6zgq5EdfNdxlNTIy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=SuillusCodeEXP&logo=telegram&label=17&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=SuillusCodeEXP&logo=telegram&label=18&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://stackoverflow.com/users/21030171/towareesh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
