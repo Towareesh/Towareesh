@@ -1,4 +1,6 @@
-<h2 align="left">Im self learning beginning coder. Studies backend and web technologies. Only without paid courses.</h2>
+<h2 align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=2000&color=21A944&multiline=true&width=2000&lines=Im+self+learning+beginning+coder.+Studies+backend+and+web+technologies.+Only+without+paid+courses." alt="Typing SVG"/>
+</h2>
 
 ###
 
