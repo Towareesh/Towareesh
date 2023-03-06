@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-![Snake animation](https://user-images.githubusercontent.com/63032856/217645980-bdccee90-00fe-4da9-a544-c6025a75a176.svg)
+![Snake animation](https://user-images.githubusercontent.com/63032856/223190373-72cd793f-6cad-42f5-a2c6-31658d1c032a.svg)
 ###
 
