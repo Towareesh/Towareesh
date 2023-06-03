@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
   <a href="https://leetcode.com/Towareesh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=submissions&logo=leetcode&label=78&color=626c80&logoColor=282c34&labelColor=ffa61d&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Solved Problems&logo=leetcode&label=38&color=626c80&logoColor=282c34&labelColor=ffa61d&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
 
